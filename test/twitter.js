@@ -1,5 +1,5 @@
 var sys = require('sys');
-var restclient = require('../src/restclient');
+var restclient = require('../lib/restclient');
 var fail = false
 
 
